@@ -1,0 +1,14 @@
+data/pocket.sql.zip
+examples/*
+.ipynb_checkpoints/*
+.DS_Store
+env/*
+__pycache__*
+scratch_files/*
+pocket_scratch.ipynb
+pocket.db
+articles.csv
+data/pg_pocket.sql
+*auth.json
+errors.csv
+data/.ipynb_checkpoints/
