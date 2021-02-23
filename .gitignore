@@ -1,6 +1,6 @@
-data/pocket.sql.zip
 examples/*
 .ipynb_checkpoints/*
+MovieSummaries/*
 .DS_Store
 env/*
 __pycache__*
@@ -11,4 +11,7 @@ articles.csv
 data/pg_pocket.sql
 *auth.json
 errors.csv
-data/.ipynb_checkpoints/
+*icloud
+*.db-shm
+*.db-wal
+*checkpoint.py
