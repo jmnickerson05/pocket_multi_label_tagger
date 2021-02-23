@@ -15,3 +15,4 @@ errors.csv
 *.db-shm
 *.db-wal
 *checkpoint.py
+*checkpoint*
