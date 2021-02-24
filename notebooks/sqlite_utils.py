@@ -40,7 +40,7 @@ def none_on_exception(fn):
 These decatorators are used for all SQLite functions
 -- @none_on_exception
 -- @functools.lru_cache(maxsize=128):
-    - lru_cache caches function calls so that 
+    - lru_cache caches function calls so that
     the results of identical inputs reads from the cache 
 """
 
