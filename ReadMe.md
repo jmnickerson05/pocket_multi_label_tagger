@@ -1,5 +1,23 @@
 Project: Write a Data Science Blog Post
 
+## Introduction
+* Libraries used:
+    - Html2Text - Extract all text data from HTML documents. Used to generate text features 
+    for new items.
+    - NLTK - To assist with NLP pre-processing (stemming, lemmatizing, removing stopwords)
+    - XGBOOST - Used to train a model for each tag/label in the dataset (gets around the 
+    imbalanced class issues)
+    - Other: Pandas, Numpy, regex, scipy, etc..
+* The motivation for the project:
+    - ML modeling and analytics on a curated dataset of my own person data.
+* Directory/File descriptions:
+    - Notebooks dir contains all programmatic for ML and analytics in this object as well as 
+    a requirements.txt and saved images of charts and graphs.
+* A summary of the results of the analysis:
+    - This project have some visual evidence via graphs of my passion for self-directed learning over the
+    years in my career. This would be a candidate portfolio item to showcase to prospective employers.
+
+## CRISP-DM Outline
 * Business Understanding
     * Brief description:
         * Bookmarked and topically tagged Pocket App API data

@@ -16,3 +16,5 @@ errors.csv
 *.db-wal
 *checkpoint.py
 *checkpoint*
+*venv*
+*.idea/*
